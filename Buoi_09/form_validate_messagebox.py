@@ -34,7 +34,6 @@ def xu_ly_submit():
         f"Da nhan thong tin: {ho_ten} - {tuoi} tuoi - {email}"
     )
 
-
 cua_so = tk.Tk()
 cua_so.title("Form nhap thong tin")
 cua_so.geometry("400x280")

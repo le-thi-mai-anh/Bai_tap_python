@@ -1,4 +1,5 @@
 #Hoạt động 5: Biến điều khiển – StringVar/IntVar/BooleanVar
+
 import tkinter as tk
 
 cua_so = tk.Tk()

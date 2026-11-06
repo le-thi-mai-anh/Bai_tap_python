@@ -13,7 +13,6 @@ for mon in ["Toan", "Ly", "Hoa", "Van", "Anh"]:
 
 listbox_mon_hoc.pack(pady=10)
 
-
 def xem_mon_da_chon():
     lua_chon = listbox_mon_hoc.curselection()
     if lua_chon:

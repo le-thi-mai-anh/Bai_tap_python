@@ -91,6 +91,7 @@ for phim, hang, cot in cac_phim:
         padx=4, pady=4
     )
 
+
 # Nut xoa bieu thuc
 tk.Button(
     cua_so,

@@ -27,4 +27,5 @@ nhan_gia_tri = tk.Label(
 
 nhan_gia_tri.pack()
 
+
 cua_so.mainloop()

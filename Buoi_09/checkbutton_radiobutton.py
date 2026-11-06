@@ -45,6 +45,7 @@ tk.Button(
 cua_so.mainloop()
 
 
+
 # Hoạt động 2 - Radiobutton – chọn giới tính/loại tài khoản
 import tkinter as tk
 

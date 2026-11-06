@@ -114,6 +114,7 @@ tk.Button(
     command=xoa_cong_viec
 ).grid(row=3, column=1, padx=10, pady=10)
 
+
 # Chay chuong trinh
 if __name__ == "__main__":
     cua_so.mainloop()
