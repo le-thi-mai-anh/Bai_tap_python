@@ -52,6 +52,7 @@ def danh_dau_thanh_toan(id_tc):
     ket_noi.commit()
     ket_noi.close()
 
+
 def thong_ke_chi_phi():
     ket_noi = ket_noi_csdl()
     con_tro = ket_noi.cursor()

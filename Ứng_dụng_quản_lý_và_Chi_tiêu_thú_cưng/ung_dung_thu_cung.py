@@ -124,7 +124,6 @@ class UngDungThuCung(tk.Tk):
         plt.tight_layout()
         plt.show()
 
-
 if __name__ == "__main__":
     app = UngDungThuCung()
     app.mainloop()
